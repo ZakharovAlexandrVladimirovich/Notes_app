@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_of_notes">
+        <item>Список дел на Понедельник</item>
+        <item>Список дел на Вторник</item>
+        <item>Список дел на Среду</item>
+        <item>Список дел на Четверг</item>
+        <item>Список дел на Пятницу</item>
+        <item>Список дел на Субботу</item>
+        <item>Список дел на Восскресенье</item>
+
+    </string-array>
+
+    <string-array name="description_of_notes">
+        <item>Сходить в магазин</item>
+        <item>Заняться спортом</item>
+        <item>Позвонить маме</item>
+        <item>Просмотр сериала</item>
+        <item>Поход в сауну</item>
+        <item>Плотно зяняться учёбой</item>
+        <item>Плотно зяняться учёбой (Допилить всё что не успел:))</item>
+
+    </string-array>
+
+</resources>
